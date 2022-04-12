@@ -1,6 +1,6 @@
 # Fake_news_prediction
 
-Logistic Regression Project(Multiclass Classification)
+Logistic Regression Project (Multiclass Classification)
 
 # Libraries Used
 - Numpy
