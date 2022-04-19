@@ -2,6 +2,16 @@
 
 Logistic Regression Project (Multiclass Classification)
 
+# About dataset 
+A full training dataset with the following attributes:
+- id: unique id for a news article
+- title: the title of a news article
+- author: author of the news article
+- text: the text of the article; could be incomplete
+- label: a label that marks the article as potentially unreliable
+- 1: unreliable (Fake news)
+- 0: reliable (Real news)
+
 # Libraries Used
 - Numpy
 - Pandas
@@ -12,8 +22,6 @@ Logistic Regression Project (Multiclass Classification)
 
 # Information
 Build a machine learning model that can predict that whether a news is real or fake.
-- 1 : Fake news
-- 0 : Real News
 
 -- About TfidfVectorizer() function
 - Tf is term frequency - it counts the number of times a particular word is repeated in a paragraph and assign particular number to that word.
