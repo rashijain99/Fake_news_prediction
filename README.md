@@ -1,6 +1,6 @@
 # Fake_news_prediction
 
-Logistic Regression Project (Multiclass Classification)
+Logistic Regression Project ((Binary Classification))
 
 # About dataset 
 A full training dataset with the following attributes:
